@@ -46,6 +46,83 @@ Trusted by top brands, Similarweb provides unparalleled insights into online beh
 <img src="https://drive.google.com/uc?export=view&id=1blfCEfuCZz6FkpegsgFrF423xrPoJ7ur" alt="Claim Your Discount"> 
 </a>
 
+Here is the extracted pricing and plan information from the image for Similarweb:
+
+---
+
+### **1. Starter Plan**
+
+* **Price:**
+
+  * \$1,500/year or \$199/month
+* **Users:** 1 user
+* **Features:**
+
+  * 3 months of historical data
+  * 1,000 keywords per table
+  * Worldwide view (cannot filter by specific country)
+* **Free Trial:** Available ("Try for free" option)
+
+---
+
+### **2. Team Plan**
+
+* **Price:**
+
+  * \$14,000/year
+* **Users:** 5 users
+* **Features:**
+
+  * 15 months of historical data
+  * 50,000 keywords per table
+  * Worldwide view or one country filter
+  * Subdomain analysis
+  * Rank tracker and Ads tracker
+  * Full-depth SERP analysis
+* **Note:** Requires "Talk to sales" to proceed
+
+---
+
+### **3. Business Plan** (Popular)
+
+* **Price:**
+
+  * \$35,000/year
+* **Users:** 5 users
+* **Features:**
+
+  * 25 months of historical data
+  * 100,000 keywords per table
+  * Worldwide view or one country filter
+  * Subdomain analysis
+  * Rank tracker and Ads tracker
+  * Full-depth SERP analysis
+  * Market research
+  * API access
+* **Note:** Requires "Talk to sales" to proceed
+
+---
+
+### **4. Enterprise Plan**
+
+* **Price:**
+
+  * Custom pricing
+* **Users:** 10 users
+* **Features:**
+
+  * 37 months of historical data
+  * Unlimited keywords per table
+  * Worldwide view and one country filter
+  * Subdomain analysis
+  * Rank tracker and Ads tracker
+  * Full-depth SERP analysis
+  * Market research
+  * API access
+  * Enterprise-class security and authentication
+* **Note:** Requires "Talk to sales" to proceed
+  
+This concludes the detailed breakdown of Similarweb's pricing plans and features, helping you choose the best fit based on your business needs and budget.
 
 ## **Detailed Idea of Similarweb SEO Coupon Codes**
 
