@@ -1,4 +1,4 @@
-# similarweb-coupon-codes
+# Save Big on Web Analytics: Similarweb Coupons & Deals
 
 Looking to **cut costs on premium web analytics tools**? You're in the right place. Similarweb, a leading digital intelligence platform, often provides **exclusive discounts, coupon codes, and limited-time offers** to help users save big.
 
