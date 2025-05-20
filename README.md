@@ -14,7 +14,7 @@ Why pay full price when you can get the **same powerful tools for less**? Keep r
   <img src="https://drive.google.com/uc?export=view&id=1wL_YrD_FzFO0dIamD4qkq8XP2km25fmy"  alt="Similarweb Homepage">
 </a>
 
-Similarweb is a digital intelligence platform that helps you understand how people use websites and apps around the world. It gives you deep insights into online behavior, competitor strategies, and market trends.
+**Similarweb** is a digital intelligence platform that helps you understand how people use websites and apps around the world. It gives you deep insights into online behavior, competitor strategies, and market trends.
 
 * **Tracks Website and App Traffic**
   It shows how many people visit a website or use an app, where they come from, and how long they stay.
